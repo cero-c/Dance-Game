@@ -37,14 +37,14 @@ const endMessages = [ "You are the Halay master! Amazing job!", "Incredible! You
 const areCards = {
     1: {
         cards: [
-            { order: 1, imageSrc: 'images/figuur-1.png', description: 'Get in position to start. Arms bent at the elbows and standing at a straight angle' },
-            { order: 2, imageSrc: 'images/figuur-2.png', description: 'Start with take a step to the right with the right foot' },
-            { order: 3, imageSrc: 'images/figuur-3.png', description: 'Take a step to the right with the left foot' },
-            { order: 4, imageSrc: 'images/figuur-4.png', description: 'Take a step to the right with the right foot' },
-            { order: 5, imageSrc: 'images/figuur-5.png', description: 'Put your left foot next to your right foot and step on the floor with your toe' },
+            { order: 1, imageSrc: '.../images/figuur-1.png', description: 'Get in position to start. Arms bent at the elbows and standing at a straight angle' },
+            { order: 2, imageSrc: '.../images/figuur-2.png', description: 'Start with take a step to the right with the right foot' },
+            { order: 3, imageSrc: '.../images/figuur-3.png', description: 'Take a step to the right with the left foot' },
+            { order: 4, imageSrc: '.../images/figuur-4.png', description: 'Take a step to the right with the right foot' },
+            { order: 5, imageSrc: '.../images/figuur-5.png', description: 'Put your left foot next to your right foot and step on the floor with your toe' },
         ],
         danceName: 'Baso dance from Idîr in the Serhad province',
-        videoSrc: 'videos/idir-1.mp4',
+        videoSrc: '.../videos/idir-1.mp4',
         currentLevel: 'Level: 1',
     },
     2: {
